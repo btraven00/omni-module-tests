@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "RNA-seq Quantification Benchmark Tool"
+version: "2.1.3"
+date-released: "2023-11-28"
+url: "https://github.com/biocompute/rnaseq-quant-bench"
+repository-code: "https://github.com/biocompute/rnaseq-quant-bench"
+authors:
+  - family-names: "González"
+    given-names: "María Elena"
+    orcid: "https://orcid.org/0000-0002-1234-5678"
+    email: "m.gonzalez@biocompute.org"
+    affiliation: "Institute for Computational Biology"
+  - family-names: "Chen"
+    given-names: "Wei"
+    orcid: "https://orcid.org/0000-0003-9876-5432"
+    email: "w.chen@genomics.edu"
+    affiliation: "Genomics Research Center"
+  - family-names: "Müller"
+    given-names: "Klaus"
+    email: "k.mueller@bioinformatics.de"
+    affiliation: "European Bioinformatics Institute"
+abstract: "A comprehensive benchmarking tool for RNA-seq quantification methods. Evaluates accuracy, speed, and memory usage across diverse datasets including simulated and real experimental data."
+keywords:
+  - RNA-seq
+  - transcriptomics
+  - quantification
+  - benchmarking
+  - bioinformatics
+  - gene-expression
+license: GPL-3.0
+doi: "10.1093/bioinformatics/btaa123"
+preferred-citation:
+  type: article
+  title: "Comprehensive benchmarking of RNA-seq quantification methods reveals systematic biases"
+  authors:
+    - family-names: "González"
+      given-names: "María Elena"
+    - family-names: "Chen"
+      given-names: "Wei"
+    - family-names: "Müller"
+      given-names: "Klaus"
+  journal: "Bioinformatics"
+  volume: 39
+  issue: 12
+  start: 2045
+  end: 2053
+  year: 2023
+  doi: "10.1093/bioinformatics/btaa123"
+contact:
+  - family-names: "González"
+    given-names: "María Elena"
+    email: "m.gonzalez@biocompute.org
