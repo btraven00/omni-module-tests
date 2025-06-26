@@ -1,0 +1,4 @@
+entrypoints:
+  default: program.sh
+environments:
+  conda: conda.yaml
